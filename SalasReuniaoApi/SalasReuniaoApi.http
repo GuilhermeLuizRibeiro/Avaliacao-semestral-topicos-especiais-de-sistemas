@@ -1,0 +1,6 @@
+@SalasReuniaoApi_HostAddress = http://localhost:5256
+
+GET {{SalasReuniaoApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
